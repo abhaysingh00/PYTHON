@@ -1,0 +1,6 @@
+a = float(input())
+b = float(input())
+c = float(input())
+r1=(-b+ (b*b-4*a*c)**.5)/(2*a)
+r2=(-b- (b*b-4*a*c)**.5)/(2*a)
+print (r1)
